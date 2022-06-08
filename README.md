@@ -1,6 +1,6 @@
 # Productive-breaking-suggestion-in-HRI
 
-In this project we test the effect of two different types of break happening during a HRI on Short-Term Memory (STM). The robot used during the interaction is the QT Robot developed by Luxai. Their repository is available [here](https://github.com/luxai-qtrobot/luxai-qtrobot.github.io). To have a better understanding of the project, please first read [this report](./Semester_project_tanguy.pdf).
+In this project we test the effect of two different types of break happening during a HRI on Short-Term Memory (STM). The robot used during the interaction is the QT Robot developed by Luxai. Their repository is available [here](https://github.com/luxai-qtrobot/luxai-qtrobot.github.io). To have a better understanding of the project, please first read [this report](./Report.pdf).
 
 ## Softwares and package versions :
 
