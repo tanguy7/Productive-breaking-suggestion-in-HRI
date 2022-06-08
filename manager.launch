@@ -1,0 +1,7 @@
+<launch>
+  <group>
+
+        <node name="states" pkg="state_machine" type="interaction.py" output="screen" respawn="true"/>
+
+  </group>
+</launch>
