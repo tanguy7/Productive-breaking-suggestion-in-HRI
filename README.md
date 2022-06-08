@@ -2,6 +2,13 @@
 
 In this project we test the effect of two different types of break happening during a HRI on Short-Term Memory (STM). To have a better understanding, please first read [this report](./Semester_project_tanguy.pdf).
 
+
+## Requirements : 
+
+
+
+## Programs :
+
 We designed three games for testing STM : 'number_game.py', 'word_game.py', 'visual_game.py'
 
 We use 4 forms to measure anxiety : 'stai1.py', 'stai2.py', 'stai3.py', 'stai4.py'
