@@ -2,6 +2,15 @@
 
 In this project we test the effect of two different types of break happening during a HRI on Short-Term Memory (STM). The robot used during the interaction is the QT Robot developed by Luxai. Their repository is available [here](https://github.com/luxai-qtrobot/luxai-qtrobot.github.io). To have a better understanding of the project, please first read [this report](./Semester_project_tanguy.pdf).
 
+## Softwares and package versions :
+
+- Ros Noetic
+- python 3.8.10
+- mediapipe 0.8.9.1
+- opencv-python 4.5.5.64
+- scikit-learn 1.0.1
+- smach 2.5.0
+
 ## Programs :
 
 We designed three games for testing STM : 'number_game.py', 'word_game.py', 'visual_game.py'
