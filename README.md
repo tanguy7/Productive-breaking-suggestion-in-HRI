@@ -4,6 +4,7 @@ In this project we test the effect of two different types of break happening dur
 
 ## Softwares and package versions :
 
+- Ubuntu 20.04.4 LTS , codename : focal
 - Ros Noetic
 - python 3.8.10
 - mediapipe 0.8.9.1
