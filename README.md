@@ -1,4 +1,4 @@
-# Towards productive-breaking-suggestion-in-HRI
+# Towards productive breaking suggestion in HRI
 
 In this project we test the effect of two different types of break happening during a HRI on Short-Term Memory (STM). The robot used during the interaction is the QT Robot developed by Luxai. Their repository is available [here](https://github.com/luxai-qtrobot/luxai-qtrobot.github.io). To have a better understanding of the project, please first read [this report](./Report.pdf).
 
@@ -14,9 +14,11 @@ In this project we test the effect of two different types of break happening dur
 
 ## Programs :
 
-We designed three games for testing STM : 'number_game.py', 'word_game.py', 'visual_game.py'
+We designed three games for testing STM : 'number_game.py', 'word_game.py', 'visual_game.py'.
 
-We used 4 forms to measure anxiety : 'stai1.py', 'stai2.py', 'stai3.py', 'stai4.py'
+We used 4 forms to measure anxiety : 'stai1.py', 'stai2.py', 'stai3.py', 'stai4.py'.
+
+'login.py' is used to ask the name and the group of the participant.
 
 We also trained a model to detect some stretching movements in 'Pose_recognition_training_notebook.ipynb'. This program uses mediapipe to detect body keypoints, and we trained a classifier to detect each stretch based on recorded coordinates of the stretches ('arm_stretches_coords.csv' and 'neck_stretches_coords.csv'). The models we keep for the detection are available : 'neck_stretches.pkl' and 'arm_stretches.pkl'.
 
